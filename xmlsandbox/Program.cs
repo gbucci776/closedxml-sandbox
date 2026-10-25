@@ -9,4 +9,5 @@ var worksheet = workbook.Worksheet("Example Sheet");
 var headerRow = worksheet.Row(1);
 int headerCount = headerRow.CellsUsed().Count();
 
+// test all .WriteLines here
 Console.WriteLine($"Number of headers: {headerCount}");

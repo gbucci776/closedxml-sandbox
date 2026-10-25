@@ -1,0 +1,14 @@
+
+# Visual Studio
+.vs/
+
+# .NET build files
+bin/
+obj/
+
+# Personal Excel workbooks
+*.xlsx
+
+# User-specific Visual Studio files
+*.user
+*.suo
